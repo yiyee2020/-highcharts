@@ -1,2 +1,2 @@
-# -highcharts
+# highcharts
 just try it!
